@@ -1,5 +1,3 @@
-"""Sample frozen thoughts with vLLM and store the token ids for loop training."""
-
 from __future__ import annotations
 
 import gc

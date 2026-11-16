@@ -1,5 +1,3 @@
-"""Turn a frozen generation into the prefix cache inputs and the token that will be looped."""
-
 from __future__ import annotations
 
 import torch

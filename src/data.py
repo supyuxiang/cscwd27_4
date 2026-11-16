@@ -1,5 +1,3 @@
-"""Text-only Weibo loader. Images are ignored; label 1 is fake."""
-
 from __future__ import annotations
 
 import json
